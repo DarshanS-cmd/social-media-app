@@ -19,7 +19,4 @@ A modern social media application that connects people worldwide, enabling seaml
 - **Scalable Backend** – Built to support millions of users.
 - **Cross-Platform** – Available on Web, Android, and iOS.
 
-## 🛠️ Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/social-media-app.git
+
